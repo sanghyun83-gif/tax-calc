@@ -20,6 +20,9 @@ export const metadata: Metadata = {
     "tax refund calculator",
     "self employment tax calculator",
   ],
+  verification: {
+    google: "qlPMVO_Hb-be3_hFHNT9SBbsHO-b_wCOfWfLmTb4EQc",
+  },
   openGraph: {
     title: `${SITE.year} Tax Calculator | Free Federal Tax Estimator`,
     description: "Calculate your federal income tax for free. See your tax bracket, estimate your refund, and plan for tax season.",

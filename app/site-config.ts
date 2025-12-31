@@ -14,7 +14,7 @@ export const SITE = {
     tagline: "Free 2025 Federal Tax Estimator",
     description: "Calculate your 2025 federal income tax for free. See your tax bracket, estimate your refund, and understand your tax liability with our easy-to-use calculators.",
     year: 2025,
-    baseUrl: "https://tax-calc-swart.vercel.app",
+    baseUrl: "https://tax.mysmartcalculators.com",
 };
 
 // ============================================
